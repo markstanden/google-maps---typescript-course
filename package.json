@@ -18,5 +18,15 @@
   "bugs": {
     "url": "https://github.com/markstanden/typescript---codealong-course/issues"
   },
-  "homepage": "https://github.com/markstanden/typescript---codealong-course#readme"
+  "homepage": "https://github.com/markstanden/typescript---codealong-course#readme",
+  "devDependencies": {
+    "faker": "^4.1.0",
+    "parcel": "^1.12.4",
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "@types/faker": "^4.1.12",
+    "@types/googlemaps": "^3.39.11"
+  }
 }
