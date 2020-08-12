@@ -1,0 +1,22 @@
+{
+  "name": "typescript-codealong",
+  "version": "0.0.1",
+  "description": "Codealong project for Stephen Grider's Udemy Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markstanden/typescript---codealong-course.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Mark Standen/Stephen Grider",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markstanden/typescript---codealong-course/issues"
+  },
+  "homepage": "https://github.com/markstanden/typescript---codealong-course#readme"
+}
